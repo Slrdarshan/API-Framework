@@ -1,0 +1,24 @@
+[{
+  "createdBy":"ak",
+  "projectName": "rmg1101",
+  "status": "ongoing",
+  "teamSize":20
+},
+{
+  "createdBy":"ak",
+  "projectName": "rmg1102",
+  "status": "created",
+  "teamSize":22
+},
+{
+  "createdBy":"ak",
+  "projectName": "rmg1103",
+  "status": "ongoing",
+  "teamSize":4
+},
+{
+  "createdBy":"ak",
+  "projectName": "rmg1141",
+  "status": "completed",
+  "teamSize":11
+}]
